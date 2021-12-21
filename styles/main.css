@@ -7,4 +7,21 @@ img {
   width: 100vw;
   height: 300px;
   color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#mail {
+  font-family: sans-serif;
+  margin: 10px;
+}
+
+#message {
+  font-family: sans-serif;
+  margin: 10px;
+}
+
+#submit {
+  font-family: sans-serif;
+  margin: 10px;
 }
